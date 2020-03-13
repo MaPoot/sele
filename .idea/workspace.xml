@@ -35,12 +35,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="JUnit.TestSimple">
+  <component name="RunManager" selected="JUnit.TestSimple.order">
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Start" />
       <module name="SeleniumTest" />
@@ -85,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestSimple" />
         <item itemvalue="JUnit.TestSimple.order" />
+        <item itemvalue="JUnit.TestSimple" />
         <item itemvalue="JUnit.TestSimple.pricesOrderedMayorMinor" />
         <item itemvalue="Application.Start" />
       </list>
